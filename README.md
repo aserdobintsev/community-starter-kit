@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+A GitHub App built with [probot](https://github.com/probot/probot) that welcomes new users.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+When users open their first new issue, first pull request or do first pull request merge, bot welcomes them. You can use this welcome message to provide links to resources like the contributing guidelines, code of conduct, etc. It should be located in a .github/config.yml
 
 ## Getting started
 
