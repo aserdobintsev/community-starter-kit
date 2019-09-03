@@ -34,5 +34,6 @@ firstPRMergeComment: >
 ```
 
 ### Example Messages
-
-CONFIGS PLACEHOLDER
+ - Thanks for opening your first issue here!👍👍👍 Be sure to follow the issue template!
+ - Thanks for opening this pull request!👍👍👍 Please check out our contributing guidelines 🚀🚀🚀
+ - Congrats on merging your first pull request! 🥳🎉🎉🎉
